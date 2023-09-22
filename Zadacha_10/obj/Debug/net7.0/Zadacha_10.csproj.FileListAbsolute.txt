@@ -1,0 +1,14 @@
+C:\Users\ibrae\Desktop\Homework\Homework_2\Zadacha_10\bin\Debug\net7.0\Zadacha_10.exe
+C:\Users\ibrae\Desktop\Homework\Homework_2\Zadacha_10\bin\Debug\net7.0\Zadacha_10.deps.json
+C:\Users\ibrae\Desktop\Homework\Homework_2\Zadacha_10\bin\Debug\net7.0\Zadacha_10.runtimeconfig.json
+C:\Users\ibrae\Desktop\Homework\Homework_2\Zadacha_10\bin\Debug\net7.0\Zadacha_10.dll
+C:\Users\ibrae\Desktop\Homework\Homework_2\Zadacha_10\bin\Debug\net7.0\Zadacha_10.pdb
+C:\Users\ibrae\Desktop\Homework\Homework_2\Zadacha_10\obj\Debug\net7.0\Zadacha_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrae\Desktop\Homework\Homework_2\Zadacha_10\obj\Debug\net7.0\Zadacha_10.AssemblyInfoInputs.cache
+C:\Users\ibrae\Desktop\Homework\Homework_2\Zadacha_10\obj\Debug\net7.0\Zadacha_10.AssemblyInfo.cs
+C:\Users\ibrae\Desktop\Homework\Homework_2\Zadacha_10\obj\Debug\net7.0\Zadacha_10.csproj.CoreCompileInputs.cache
+C:\Users\ibrae\Desktop\Homework\Homework_2\Zadacha_10\obj\Debug\net7.0\Zadacha_10.dll
+C:\Users\ibrae\Desktop\Homework\Homework_2\Zadacha_10\obj\Debug\net7.0\refint\Zadacha_10.dll
+C:\Users\ibrae\Desktop\Homework\Homework_2\Zadacha_10\obj\Debug\net7.0\Zadacha_10.pdb
+C:\Users\ibrae\Desktop\Homework\Homework_2\Zadacha_10\obj\Debug\net7.0\Zadacha_10.genruntimeconfig.cache
+C:\Users\ibrae\Desktop\Homework\Homework_2\Zadacha_10\obj\Debug\net7.0\ref\Zadacha_10.dll
